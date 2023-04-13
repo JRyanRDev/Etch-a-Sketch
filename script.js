@@ -1,7 +1,6 @@
 const container = document.getElementById("container");
 const rMode = document.getElementById("iRainbow");
 let size = 0;
-let amount = 0;
 
 document.getElementById("subIpt").addEventListener("click", () => {
     getIpt();
